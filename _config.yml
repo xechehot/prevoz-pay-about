@@ -42,7 +42,7 @@ incremental         : false
 detach              : false
 port                : 4000
 host                : 127.0.0.1
-baseurl             : "" # does not include hostname
+baseurl             : "https://xechehot.github.io/prevoz-pay-about/" # does not include hostname
 show_dir_listing    : false
 
 # Outputting
