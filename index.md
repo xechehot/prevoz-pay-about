@@ -23,3 +23,6 @@ Have a good trip!
 ## Feedback
 
 Please leave your comments and feedback to [sotov.dev@gmail.com](mailto:sotov.dev@gmail.com).
+
+
+[Download Prevoz Pay](https://disk.yandex.ru/d/ZceDoZ0kJ6VdXg)
