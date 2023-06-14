@@ -16,3 +16,10 @@ Please downolad and install Prevoz Pay app using [this link](https://disk.yandex
 5. Ticket number, price and expiration date will be shown.
 
 Have a good trip!
+
+### Screnshots
+<img src="assets/Prevoz_pay_android.jpg" alt="image of prevoz pay app" width="300"/>
+
+## Feedback
+
+Please leave your comments and feedback to [sotov.dev@gmail.com](mailto:sotov.dev@gmail.com).
